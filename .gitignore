@@ -1,0 +1,17 @@
+Thumbs.db
+
+/tmp/
+
+*.txt
+
+*_old
+
+*_backup
+
+*.DS_Store
+
+*_old*
+
+*_backup*
+
+*.DS_Store*
